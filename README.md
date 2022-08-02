@@ -1,4 +1,4 @@
-# djbotAPI
+# DJBOT
 
 *Discord bot that allows you to play music from Youtube Playlists* 
 
